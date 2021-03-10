@@ -15,22 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/test', function () {
-    return view('test', [
-        'name' => request('name')
-    ]);
-});
-
-Route::get('/posts/{post}', function ($post) {
-    $posts = [
-        'my-first-post' => 'Hello, this is my first post',
-        'my-second-post' => 'now im getting the hang out'
-    ];
-
-    return view('post', [
-        'post' => $posts[$post]
-    ]);
-});
+Route::get('/posts/{post}', 'PostsController@show');
 
 
 
