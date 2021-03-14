@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="591abbbe-877e-4c09-abf5-d71ed7b96a0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -147,6 +146,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -164,7 +169,8 @@
       <workItem from="1615285213706" duration="6560000" />
       <workItem from="1615370537566" duration="6795000" />
       <workItem from="1615456372240" duration="6572000" />
-      <workItem from="1615544454728" duration="2892000" />
+      <workItem from="1615544454728" duration="3136000" />
+      <workItem from="1615557271278" duration="5309000" />
     </task>
     <servers />
   </component>
@@ -182,5 +188,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1336" y="371" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615558204602">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="1336" y="371" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.994@0.23.1920.994" timestamp="1615558204602" />
   </component>
 </project>
