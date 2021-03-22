@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="591abbbe-877e-4c09-abf5-d71ed7b96a0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/articles/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Article.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_03_11_103959_create-posts-table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_03_11_103959_create-posts-table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/articles/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/articles/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +170,8 @@
       <workItem from="1615544454728" duration="3136000" />
       <workItem from="1615557271278" duration="11969000" />
       <workItem from="1615888623402" duration="16854000" />
-      <workItem from="1616059891407" duration="11442000" />
+      <workItem from="1616059891407" duration="11926000" />
+      <workItem from="1616411213178" duration="2433000" />
     </task>
     <servers />
   </component>
@@ -201,5 +199,17 @@
       <screen x="0" y="23" width="1920" height="994" />
     </state>
     <state x="1336" y="371" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.994@0.23.1920.994" timestamp="1615558204602" />
+    <state x="1393" y="521" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1616414605596">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="1393" y="521" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.23.1920.995@0.23.1920.995" timestamp="1616414605596" />
+    <state x="1030" y="663" key="ReplaceDuplicatesPrompt" timestamp="1616414618838">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="1030" y="663" key="ReplaceDuplicatesPrompt/0.23.1920.995@0.23.1920.995" timestamp="1616414618838" />
+    <state x="777" y="342" width="670" height="676" key="search.everywhere.popup" timestamp="1616413456792">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="777" y="342" width="670" height="676" key="search.everywhere.popup/0.23.1920.995@0.23.1920.995" timestamp="1616413456792" />
   </component>
 </project>
