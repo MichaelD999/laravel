@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,11 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="591abbbe-877e-4c09-abf5-d71ed7b96a0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/articles/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Article.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Project.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_03_15_185901_create_articles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_03_15_185901_create_articles_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +176,8 @@
       <workItem from="1615557271278" duration="11969000" />
       <workItem from="1615888623402" duration="16854000" />
       <workItem from="1616059891407" duration="11926000" />
-      <workItem from="1616411213178" duration="5502000" />
+      <workItem from="1616411213178" duration="7432000" />
+      <workItem from="1616491918668" duration="11096000" />
     </task>
     <servers />
   </component>
@@ -209,9 +213,10 @@
       <screen x="0" y="23" width="1920" height="995" />
     </state>
     <state x="1030" y="663" key="ReplaceDuplicatesPrompt/0.23.1920.995@0.23.1920.995" timestamp="1616414618838" />
-    <state x="777" y="342" width="670" height="676" key="search.everywhere.popup" timestamp="1616425431493">
-      <screen x="0" y="23" width="1920" height="995" />
+    <state x="777" y="345" width="670" height="683" key="search.everywhere.popup" timestamp="1616592193832">
+      <screen x="0" y="23" width="1920" height="1004" />
     </state>
+    <state x="777" y="345" width="670" height="683" key="search.everywhere.popup/0.23.1920.1004@0.23.1920.1004" timestamp="1616592193832" />
     <state x="777" y="342" width="670" height="676" key="search.everywhere.popup/0.23.1920.995@0.23.1920.995" timestamp="1616425431493" />
   </component>
 </project>
