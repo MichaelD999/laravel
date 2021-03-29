@@ -6,24 +6,28 @@
              id="page"
              class="container"
         >
-            @foreach ($articles as $article)
+            @forelse ($articles as $article)
                 <div class="content">
-                    <h2>
-                        <a href="{{ $article->path() }}">
+                    <div class="title">
+                      <h2>
+                           <a href="{{ $article->path() }}">
                             {{ $article->title }}
-                        </a>
-                    </h2>
+                            </a>
+                      </h2>
+                   </div>
+
+                    <p>
+                       <img
+                          src="/images/banner.jpg"
+                          alt=""
+                          class="image image-full"
+                       />
+                    </p>
+
+                    {!! $article->excerpt !!}
                 </div>
-
-                <p>
-                    <img
-                        src="/images/banner.jpg"
-                        alt=""
-                        class="image image-full"
-                    />
-                </p>
-
-                {!! $article->excerpt !!}
+            @empty
+                <p> No relevant articles yet.</p>
             @endforeach
 
         </div>
